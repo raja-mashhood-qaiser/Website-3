@@ -1,0 +1,53 @@
+.nav1{
+    padding: 1%;
+}
+.hero1{
+    height: 78vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.navbar1{
+    padding-right: 8%;
+    font-weight: bolder;
+    font-size: 1.5rem;
+   
+}
+.navbar1 span{
+    color: rgb(83, 189, 47);
+}
+.nav2{
+    /* background-color: rgba(83, 189, 47, 0.205); */
+}
+
+.navbar2{
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.drop1:hover{
+ border-left: 4px solid rgb(83, 189, 47);
+}
+.search1{
+   border: 1px solid rgb(83, 189, 47) ;
+   outline: none !important;
+   /* border-radius: 1%; */
+   border: none;
+   width: 100%;
+}
+.btn2{
+    border: 1px solid rgb(83, 189, 47) ;
+    border: none;
+    transition: 0.3s linear;
+
+}
+.btn2 span:hover{
+    color:rgb(83, 189, 47) ;
+}
+.form2{
+    border: 1px solid rgb(83, 189, 47);
+    border-radius: 2px;
+}
+.con1 h1{
+    color: blue;
+}
